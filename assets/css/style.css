@@ -1,0 +1,57 @@
+
+	body {
+		background-image: url("../images/vintage-concrete.png");
+		background-repeat: repeat;
+	}
+
+	h3 {
+		color: #4aaaa5;
+		font-weight: bold;
+		font-family: Arial;
+		font-size: 20px;
+	}
+
+	#headerbox {
+		color: white;
+		background-color: #4aaaa5;
+		height: 50px;
+		width: auto;
+		padding: 10px;
+		font-weight: bold;
+		font-size: 24px;
+	}
+
+	#footercss {
+		height: 50px; 
+		border-width: 15px; 
+		border-top-style: solid;
+		border-top-color: #4aaaa5; 
+		background-color: grey;
+		text-align: center;
+		vertical-align: middle;
+	}
+
+	#portfoliobox {
+		position: relative;
+		width: 370px;
+		height: 320px;
+		margin:10px; 
+		float: left;
+		margin-top: -30px;
+		padding-bottom: 10px;
+	}
+
+	#pixbox {
+		position: inherit;
+		margin-top: -30px;
+		height: 20px;
+		width: 370px;
+		text-align: center;	
+	    padding-bottom: 8px;
+		background-color: #4aaaa5;
+		color: #fff;
+		font-size: 16px;
+		font-family: Arial;
+		font-weight: bold;
+		z-index: 3;
+	}
